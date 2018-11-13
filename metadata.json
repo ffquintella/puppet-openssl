@@ -1,8 +1,8 @@
 {
-  "name": "camptocamp-openssl",
-  "version": "1.10.0",
+  "name": "ffquintella-openssl",
+  "version": "1.10.1",
   "author": "Camptocamp",
-  "summary": "Camptocamp OpenSSL Module",
+  "summary": "Fork of Camptocamp OpenSSL Module",
   "license": "Apache-2.0",
   "source": "https://github.com/camptocamp/puppet-openssl",
   "project_page": "https://github.com/camptocamp/puppet-openssl",
